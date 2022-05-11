@@ -19,7 +19,7 @@
     <div class="main">
       <h5>Exploratory Testing</h5>
       <ExploratoryTestReportCard :exploratoryTestReports=exploratoryTestReports v-if="exploratoryTestReports"/>
-      <p v-else><b>Note:</b> Please choose the Relevant Bug Report to get the Exploratory Test Reports</p>
+      <p v-else><b>Note:</b> Please choose the Relevant Bug Report to get the Test Scenarios</p>
     </div>
     <!-- <Right /> -->
     <div class="right">
